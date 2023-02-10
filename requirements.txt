@@ -7,3 +7,4 @@ seaborn>=0.12.2
 scikit-learn>=1.2.0 
 xlsx2csv>=0.8.1
 git+https://github.com/mariolpantunes/nmf@main#egg=nmf
+git+https://github.com/mariolpantunes/knee@main#egg=knee
